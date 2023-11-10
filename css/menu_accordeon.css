@@ -28,12 +28,12 @@
 	margin       : 0px 0px 10px 0px;
 	padding      : 10px;
 	font-size    : 22px;
-	font-weight  : 400;
 	background   : #fff;
 	color        : #7a8794;
 	width        : 100%;
 	border-radius: 3px;
 	box-sizing   : border-box;
+	font-weight  : bold;
 }
 
 .accordionItemHeading span {
@@ -136,4 +136,48 @@
 .mt-2,
 .my-2 {
 	margin-top: 0.5rem !important;
+}
+
+.headline-drink {
+	font-size         : 14px;
+	-webkit-line-clamp: 2;
+	line-height       : 1.5;
+	max-height        : 42px;
+	font-weight       : 600;
+}
+
+.item-link-wrap {
+	text-decoration: none;
+	display        : flex;
+	align-items    : center;
+	width          : 100%;
+}
+
+.multiline-ellipsis-title[_ngcontent-qki-c12] {
+	font-size         : 14px;
+	-webkit-line-clamp: 2;
+	line-height       : 1.5;
+	max-height        : 42px;
+}
+
+.card[_ngcontent-qki-c13]>.category-title[_ngcontent-qki-c13]>div[_ngcontent-qki-c13] {
+	margin-bottom: auto;
+	margin-right : auto;
+	margin-top   : auto;
+	text-align   : left;
+	width        : -webkit-fit-content;
+	width        : -moz-fit-content;
+	width        : fit-content;
+	word-break   : break-word;
+}
+
+.multiline-ellipsis-title[_ngcontent-qki-c12] {
+	font-size         : 14px;
+	-webkit-line-clamp: 2;
+	line-height       : 1.5;
+	max-height        : 42px;
+}
+
+.snacks_cursor-none {
+	cursor: default;
 }
