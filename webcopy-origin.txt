@@ -1,0 +1,492 @@
+Uri: http://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/3a63a1ad-66f7-41ff-9027-d84186c7f7c4/Chance-logo.png?format=1500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\3a63a1ad-66f7-41ff-9027-d84186c7f7c4\Chance-logo-1.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js
+File Name: C:\Downloaded Web Sites\chancecafe.de\@sqs\polyfiller\1.6\legacy.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js
+File Name: C:\Downloaded Web Sites\chancecafe.de\@sqs\polyfiller\1.6\modern.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/default-favicon.ico
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\default-favicon.ico
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\fonts\social-20141119\social-icon-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot?
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\fonts\social-20141119\social-icon-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\fonts\social-20141119\social-icon-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\fonts\social-20141119\social-icon-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\fonts\social-20141119\social-icon-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\fonts\squarespace-ui-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot?
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\fonts\squarespace-ui-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.svg
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\fonts\squarespace-ui-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.ttf
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\fonts\squarespace-ui-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.woff
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\fonts\squarespace-ui-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\damask\edit-aviary-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\damask\edit-aviary-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\damask\edit-info-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\damask\edit-info-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\damask\error-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\damask\error-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-16-light.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\damask\getty-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-32-light.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\damask\getty-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\damask\play-button.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button@2x.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\damask\play-button@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\damask\shopping-cart-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\damask\shopping-cart-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\damask\trash-9-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\damask\trash-9-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\damask\trash-9-red.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\damask\trash-9-red@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\icons\block-indicator-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\icons\block-indicator-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\icons\icon-searchqueries-20-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\icons\icon-searchqueries-20-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\icons\icon-settings-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\icons\icon-video-24-light-solid.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\icons\opentable-icons.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.svg
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\icons\opentable-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\images-v6\standard\icon_close_7_light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-110eab6cc05faf9931604-min.en-US.js
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\scripts-compressed\cldr-resource-pack-110eab6cc05faf9931604-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-633a64c18047240e840ff-min.de-DE.js
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\scripts-compressed\cldr-resource-pack-633a64c18047240e840ff-min.de-DE.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-a3c0b956a7b31102cb20e-min.de-DE.js
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\scripts-compressed\common-a3c0b956a7b31102cb20e-min.de-DE.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-148fea5d6fcd36f5e60f1-min.de-DE.js
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\scripts-compressed\common-vendors-148fea5d6fcd36f5e60f1-min.de-DE.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-57c266be6e5d649cbfde0-min.de-DE.js
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\scripts-compressed\common-vendors-stable-57c266be6e5d649cbfde0-min.de-DE.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-65464129c9aa9cddd2e06-min.de-DE.js
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\scripts-compressed\extract-css-moment-js-vendor-65464129c9aa9cddd2e06-min.de-DE.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-aa920f1feb67a78cfe042-min.de-DE.js
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\scripts-compressed\extract-css-runtime-aa920f1feb67a78cfe042-min.de-DE.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-cfb73ab3dd8f3c87af0f6-min.de-DE.js
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\scripts-compressed\extract-css-runtime-cfb73ab3dd8f3c87af0f6-min.de-DE.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/performance-34722bc19e2c44c4995ff-min.de-DE.js
+File Name: C:\Downloaded Web Sites\chancecafe.de\universal\scripts-compressed\performance-34722bc19e2c44c4995ff-min.de-DE.js
+Content Type: text/javascript
+
+Uri: https://chancecafe.de/
+File Name: C:\Downloaded Web Sites\chancecafe.de\index.htm
+Content Type: text/html
+
+Uri: https://chancecafe.de/cart
+File Name: C:\Downloaded Web Sites\chancecafe.de\cart.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Pontano+Sans:wght@400
+File Name: C:\Downloaded Web Sites\chancecafe.de\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/pontanosans/v17/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOXLMncY.ttf
+File Name: C:\Downloaded Web Sites\chancecafe.de\s\pontanosans\v17\qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOXLMncY.ttf
+Content Type: font/ttf
+
+Uri: https://images.squarespace-cdn.com/
+File Name: C:\Downloaded Web Sites\chancecafe.de\index-1.htm
+Content Type: 
+
+Uri: https://images.squarespace-cdn.com/content/643690f9010b9c2e3a90196a/3a63a1ad-66f7-41ff-9027-d84186c7f7c4/Chance-logo.png?content-type=image%2Fpng
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\643690f9010b9c2e3a90196a\3a63a1ad-66f7-41ff-9027-d84186c7f7c4\Chance-logo.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/3a63a1ad-66f7-41ff-9027-d84186c7f7c4/Chance-logo.png?format=1500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\3a63a1ad-66f7-41ff-9027-d84186c7f7c4\Chance-logo.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/4bdceab7-0f29-47df-b250-3b77f75f2986/alex-voulgaris-OG_m5CarWo4-unsplash.jpg
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\4bdceab7-0f29-47df-b250-3b77f75f2986\alex-voulgaris-OG_m5CarWo4-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/4bdceab7-0f29-47df-b250-3b77f75f2986/alex-voulgaris-OG_m5CarWo4-unsplash.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\4bdceab7-0f29-47df-b250-3b77f75f2986\alex-voulgaris-OG_m5CarWo4-unsplash-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/4bdceab7-0f29-47df-b250-3b77f75f2986/alex-voulgaris-OG_m5CarWo4-unsplash.jpg?format=100w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\4bdceab7-0f29-47df-b250-3b77f75f2986\alex-voulgaris-OG_m5CarWo4-unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/4bdceab7-0f29-47df-b250-3b77f75f2986/alex-voulgaris-OG_m5CarWo4-unsplash.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\4bdceab7-0f29-47df-b250-3b77f75f2986\alex-voulgaris-OG_m5CarWo4-unsplash-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/4bdceab7-0f29-47df-b250-3b77f75f2986/alex-voulgaris-OG_m5CarWo4-unsplash.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\4bdceab7-0f29-47df-b250-3b77f75f2986\alex-voulgaris-OG_m5CarWo4-unsplash-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/4bdceab7-0f29-47df-b250-3b77f75f2986/alex-voulgaris-OG_m5CarWo4-unsplash.jpg?format=300w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\4bdceab7-0f29-47df-b250-3b77f75f2986\alex-voulgaris-OG_m5CarWo4-unsplash-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/4bdceab7-0f29-47df-b250-3b77f75f2986/alex-voulgaris-OG_m5CarWo4-unsplash.jpg?format=500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\4bdceab7-0f29-47df-b250-3b77f75f2986\alex-voulgaris-OG_m5CarWo4-unsplash-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/4bdceab7-0f29-47df-b250-3b77f75f2986/alex-voulgaris-OG_m5CarWo4-unsplash.jpg?format=750w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\4bdceab7-0f29-47df-b250-3b77f75f2986\alex-voulgaris-OG_m5CarWo4-unsplash-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/54c07d65-5653-4688-941e-4efd1de99944/alex-voulgaris-jfoIIFLw3_Y-unsplash.jpg
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\54c07d65-5653-4688-941e-4efd1de99944\alex-voulgaris-jfoIIFLw3_Y-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/54c07d65-5653-4688-941e-4efd1de99944/alex-voulgaris-jfoIIFLw3_Y-unsplash.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\54c07d65-5653-4688-941e-4efd1de99944\alex-voulgaris-jfoIIFLw3_Y-unsplash-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/54c07d65-5653-4688-941e-4efd1de99944/alex-voulgaris-jfoIIFLw3_Y-unsplash.jpg?format=100w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\54c07d65-5653-4688-941e-4efd1de99944\alex-voulgaris-jfoIIFLw3_Y-unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/54c07d65-5653-4688-941e-4efd1de99944/alex-voulgaris-jfoIIFLw3_Y-unsplash.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\54c07d65-5653-4688-941e-4efd1de99944\alex-voulgaris-jfoIIFLw3_Y-unsplash-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/54c07d65-5653-4688-941e-4efd1de99944/alex-voulgaris-jfoIIFLw3_Y-unsplash.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\54c07d65-5653-4688-941e-4efd1de99944\alex-voulgaris-jfoIIFLw3_Y-unsplash-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/54c07d65-5653-4688-941e-4efd1de99944/alex-voulgaris-jfoIIFLw3_Y-unsplash.jpg?format=300w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\54c07d65-5653-4688-941e-4efd1de99944\alex-voulgaris-jfoIIFLw3_Y-unsplash-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/54c07d65-5653-4688-941e-4efd1de99944/alex-voulgaris-jfoIIFLw3_Y-unsplash.jpg?format=500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\54c07d65-5653-4688-941e-4efd1de99944\alex-voulgaris-jfoIIFLw3_Y-unsplash-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/54c07d65-5653-4688-941e-4efd1de99944/alex-voulgaris-jfoIIFLw3_Y-unsplash.jpg?format=750w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\54c07d65-5653-4688-941e-4efd1de99944\alex-voulgaris-jfoIIFLw3_Y-unsplash-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/62b98bc2-6696-4dfc-a6c8-53ce7d216751/ambitious-studio-rick-barrett-UoTlkEmUDMQ-unsplash.jpg
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\62b98bc2-6696-4dfc-a6c8-53ce7d216751\ambitious-studio-rick-barrett-UoTlkEmUDMQ-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/62b98bc2-6696-4dfc-a6c8-53ce7d216751/ambitious-studio-rick-barrett-UoTlkEmUDMQ-unsplash.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\62b98bc2-6696-4dfc-a6c8-53ce7d216751\ambitious-studio-rick-barrett-UoTlkEmUDMQ-unsplash-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/62b98bc2-6696-4dfc-a6c8-53ce7d216751/ambitious-studio-rick-barrett-UoTlkEmUDMQ-unsplash.jpg?format=100w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\62b98bc2-6696-4dfc-a6c8-53ce7d216751\ambitious-studio-rick-barrett-UoTlkEmUDMQ-unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/62b98bc2-6696-4dfc-a6c8-53ce7d216751/ambitious-studio-rick-barrett-UoTlkEmUDMQ-unsplash.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\62b98bc2-6696-4dfc-a6c8-53ce7d216751\ambitious-studio-rick-barrett-UoTlkEmUDMQ-unsplash-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/62b98bc2-6696-4dfc-a6c8-53ce7d216751/ambitious-studio-rick-barrett-UoTlkEmUDMQ-unsplash.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\62b98bc2-6696-4dfc-a6c8-53ce7d216751\ambitious-studio-rick-barrett-UoTlkEmUDMQ-unsplash-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/62b98bc2-6696-4dfc-a6c8-53ce7d216751/ambitious-studio-rick-barrett-UoTlkEmUDMQ-unsplash.jpg?format=300w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\62b98bc2-6696-4dfc-a6c8-53ce7d216751\ambitious-studio-rick-barrett-UoTlkEmUDMQ-unsplash-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/62b98bc2-6696-4dfc-a6c8-53ce7d216751/ambitious-studio-rick-barrett-UoTlkEmUDMQ-unsplash.jpg?format=500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\62b98bc2-6696-4dfc-a6c8-53ce7d216751\ambitious-studio-rick-barrett-UoTlkEmUDMQ-unsplash-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/62b98bc2-6696-4dfc-a6c8-53ce7d216751/ambitious-studio-rick-barrett-UoTlkEmUDMQ-unsplash.jpg?format=750w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\62b98bc2-6696-4dfc-a6c8-53ce7d216751\ambitious-studio-rick-barrett-UoTlkEmUDMQ-unsplash-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/68c8313d-1187-46d3-b840-e3b7ef263a41/alessio-zaccaria-zt0p3BYtDfM-unsplash.jpg
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\68c8313d-1187-46d3-b840-e3b7ef263a41\alessio-zaccaria-zt0p3BYtDfM-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/68c8313d-1187-46d3-b840-e3b7ef263a41/alessio-zaccaria-zt0p3BYtDfM-unsplash.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\68c8313d-1187-46d3-b840-e3b7ef263a41\alessio-zaccaria-zt0p3BYtDfM-unsplash-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/68c8313d-1187-46d3-b840-e3b7ef263a41/alessio-zaccaria-zt0p3BYtDfM-unsplash.jpg?format=100w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\68c8313d-1187-46d3-b840-e3b7ef263a41\alessio-zaccaria-zt0p3BYtDfM-unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/68c8313d-1187-46d3-b840-e3b7ef263a41/alessio-zaccaria-zt0p3BYtDfM-unsplash.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\68c8313d-1187-46d3-b840-e3b7ef263a41\alessio-zaccaria-zt0p3BYtDfM-unsplash-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/68c8313d-1187-46d3-b840-e3b7ef263a41/alessio-zaccaria-zt0p3BYtDfM-unsplash.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\68c8313d-1187-46d3-b840-e3b7ef263a41\alessio-zaccaria-zt0p3BYtDfM-unsplash-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/68c8313d-1187-46d3-b840-e3b7ef263a41/alessio-zaccaria-zt0p3BYtDfM-unsplash.jpg?format=300w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\68c8313d-1187-46d3-b840-e3b7ef263a41\alessio-zaccaria-zt0p3BYtDfM-unsplash-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/68c8313d-1187-46d3-b840-e3b7ef263a41/alessio-zaccaria-zt0p3BYtDfM-unsplash.jpg?format=500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\68c8313d-1187-46d3-b840-e3b7ef263a41\alessio-zaccaria-zt0p3BYtDfM-unsplash-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/68c8313d-1187-46d3-b840-e3b7ef263a41/alessio-zaccaria-zt0p3BYtDfM-unsplash.jpg?format=750w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\68c8313d-1187-46d3-b840-e3b7ef263a41\alessio-zaccaria-zt0p3BYtDfM-unsplash-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/6c243b39-4e35-4863-83eb-c6390b0eb13b/stanislav-knopp-nawaKdBv75c-unsplash.jpg
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\6c243b39-4e35-4863-83eb-c6390b0eb13b\stanislav-knopp-nawaKdBv75c-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/6c243b39-4e35-4863-83eb-c6390b0eb13b/stanislav-knopp-nawaKdBv75c-unsplash.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\6c243b39-4e35-4863-83eb-c6390b0eb13b\stanislav-knopp-nawaKdBv75c-unsplash-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/6c243b39-4e35-4863-83eb-c6390b0eb13b/stanislav-knopp-nawaKdBv75c-unsplash.jpg?format=100w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\6c243b39-4e35-4863-83eb-c6390b0eb13b\stanislav-knopp-nawaKdBv75c-unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/6c243b39-4e35-4863-83eb-c6390b0eb13b/stanislav-knopp-nawaKdBv75c-unsplash.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\6c243b39-4e35-4863-83eb-c6390b0eb13b\stanislav-knopp-nawaKdBv75c-unsplash-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/6c243b39-4e35-4863-83eb-c6390b0eb13b/stanislav-knopp-nawaKdBv75c-unsplash.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\6c243b39-4e35-4863-83eb-c6390b0eb13b\stanislav-knopp-nawaKdBv75c-unsplash-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/6c243b39-4e35-4863-83eb-c6390b0eb13b/stanislav-knopp-nawaKdBv75c-unsplash.jpg?format=300w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\6c243b39-4e35-4863-83eb-c6390b0eb13b\stanislav-knopp-nawaKdBv75c-unsplash-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/6c243b39-4e35-4863-83eb-c6390b0eb13b/stanislav-knopp-nawaKdBv75c-unsplash.jpg?format=500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\6c243b39-4e35-4863-83eb-c6390b0eb13b\stanislav-knopp-nawaKdBv75c-unsplash-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/6c243b39-4e35-4863-83eb-c6390b0eb13b/stanislav-knopp-nawaKdBv75c-unsplash.jpg?format=750w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\6c243b39-4e35-4863-83eb-c6390b0eb13b\stanislav-knopp-nawaKdBv75c-unsplash-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/a24d9137-9713-414a-a195-f78b5d1355ff/jason-blackeye-v7_5j_Yz5zk-unsplash.jpg
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\a24d9137-9713-414a-a195-f78b5d1355ff\jason-blackeye-v7_5j_Yz5zk-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/a24d9137-9713-414a-a195-f78b5d1355ff/jason-blackeye-v7_5j_Yz5zk-unsplash.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\a24d9137-9713-414a-a195-f78b5d1355ff\jason-blackeye-v7_5j_Yz5zk-unsplash-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/a24d9137-9713-414a-a195-f78b5d1355ff/jason-blackeye-v7_5j_Yz5zk-unsplash.jpg?format=100w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\a24d9137-9713-414a-a195-f78b5d1355ff\jason-blackeye-v7_5j_Yz5zk-unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/a24d9137-9713-414a-a195-f78b5d1355ff/jason-blackeye-v7_5j_Yz5zk-unsplash.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\a24d9137-9713-414a-a195-f78b5d1355ff\jason-blackeye-v7_5j_Yz5zk-unsplash-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/a24d9137-9713-414a-a195-f78b5d1355ff/jason-blackeye-v7_5j_Yz5zk-unsplash.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\a24d9137-9713-414a-a195-f78b5d1355ff\jason-blackeye-v7_5j_Yz5zk-unsplash-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/a24d9137-9713-414a-a195-f78b5d1355ff/jason-blackeye-v7_5j_Yz5zk-unsplash.jpg?format=300w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\a24d9137-9713-414a-a195-f78b5d1355ff\jason-blackeye-v7_5j_Yz5zk-unsplash-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/a24d9137-9713-414a-a195-f78b5d1355ff/jason-blackeye-v7_5j_Yz5zk-unsplash.jpg?format=500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\a24d9137-9713-414a-a195-f78b5d1355ff\jason-blackeye-v7_5j_Yz5zk-unsplash-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/a24d9137-9713-414a-a195-f78b5d1355ff/jason-blackeye-v7_5j_Yz5zk-unsplash.jpg?format=750w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\a24d9137-9713-414a-a195-f78b5d1355ff\jason-blackeye-v7_5j_Yz5zk-unsplash-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/ba068700-587e-422f-a7da-cfc12d63cd0b/alena-plotnikova-LWZ46kPtiDw-unsplash.jpg
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\ba068700-587e-422f-a7da-cfc12d63cd0b\alena-plotnikova-LWZ46kPtiDw-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/ba068700-587e-422f-a7da-cfc12d63cd0b/alena-plotnikova-LWZ46kPtiDw-unsplash.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\ba068700-587e-422f-a7da-cfc12d63cd0b\alena-plotnikova-LWZ46kPtiDw-unsplash-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/ba068700-587e-422f-a7da-cfc12d63cd0b/alena-plotnikova-LWZ46kPtiDw-unsplash.jpg?format=100w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\ba068700-587e-422f-a7da-cfc12d63cd0b\alena-plotnikova-LWZ46kPtiDw-unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/ba068700-587e-422f-a7da-cfc12d63cd0b/alena-plotnikova-LWZ46kPtiDw-unsplash.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\ba068700-587e-422f-a7da-cfc12d63cd0b\alena-plotnikova-LWZ46kPtiDw-unsplash-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/ba068700-587e-422f-a7da-cfc12d63cd0b/alena-plotnikova-LWZ46kPtiDw-unsplash.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\ba068700-587e-422f-a7da-cfc12d63cd0b\alena-plotnikova-LWZ46kPtiDw-unsplash-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/ba068700-587e-422f-a7da-cfc12d63cd0b/alena-plotnikova-LWZ46kPtiDw-unsplash.jpg?format=300w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\ba068700-587e-422f-a7da-cfc12d63cd0b\alena-plotnikova-LWZ46kPtiDw-unsplash-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/ba068700-587e-422f-a7da-cfc12d63cd0b/alena-plotnikova-LWZ46kPtiDw-unsplash.jpg?format=500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\ba068700-587e-422f-a7da-cfc12d63cd0b\alena-plotnikova-LWZ46kPtiDw-unsplash-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/ba068700-587e-422f-a7da-cfc12d63cd0b/alena-plotnikova-LWZ46kPtiDw-unsplash.jpg?format=750w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\ba068700-587e-422f-a7da-cfc12d63cd0b\alena-plotnikova-LWZ46kPtiDw-unsplash-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/ea2aa185-f688-4812-9123-6a244b8c5687/ambitious-studio-rick-barrett-QjUY7auDzUQ-unsplash.jpg
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\ea2aa185-f688-4812-9123-6a244b8c5687\ambitious-studio-rick-barrett-QjUY7auDzUQ-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/ea2aa185-f688-4812-9123-6a244b8c5687/ambitious-studio-rick-barrett-QjUY7auDzUQ-unsplash.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\ea2aa185-f688-4812-9123-6a244b8c5687\ambitious-studio-rick-barrett-QjUY7auDzUQ-unsplash-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/ea2aa185-f688-4812-9123-6a244b8c5687/ambitious-studio-rick-barrett-QjUY7auDzUQ-unsplash.jpg?format=100w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\ea2aa185-f688-4812-9123-6a244b8c5687\ambitious-studio-rick-barrett-QjUY7auDzUQ-unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/ea2aa185-f688-4812-9123-6a244b8c5687/ambitious-studio-rick-barrett-QjUY7auDzUQ-unsplash.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\ea2aa185-f688-4812-9123-6a244b8c5687\ambitious-studio-rick-barrett-QjUY7auDzUQ-unsplash-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/ea2aa185-f688-4812-9123-6a244b8c5687/ambitious-studio-rick-barrett-QjUY7auDzUQ-unsplash.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\ea2aa185-f688-4812-9123-6a244b8c5687\ambitious-studio-rick-barrett-QjUY7auDzUQ-unsplash-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/ea2aa185-f688-4812-9123-6a244b8c5687/ambitious-studio-rick-barrett-QjUY7auDzUQ-unsplash.jpg?format=300w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\ea2aa185-f688-4812-9123-6a244b8c5687\ambitious-studio-rick-barrett-QjUY7auDzUQ-unsplash-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/ea2aa185-f688-4812-9123-6a244b8c5687/ambitious-studio-rick-barrett-QjUY7auDzUQ-unsplash.jpg?format=500w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\ea2aa185-f688-4812-9123-6a244b8c5687\ambitious-studio-rick-barrett-QjUY7auDzUQ-unsplash-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/643690f9010b9c2e3a90196a/ea2aa185-f688-4812-9123-6a244b8c5687/ambitious-studio-rick-barrett-QjUY7auDzUQ-unsplash.jpg?format=750w
+File Name: C:\Downloaded Web Sites\chancecafe.de\content\v1\643690f9010b9c2e3a90196a\ea2aa185-f688-4812-9123-6a244b8c5687\ambitious-studio-rick-barrett-QjUY7auDzUQ-unsplash-4.jpg
+Content Type: image/jpeg
+
+Uri: https://static1.squarespace.com/static/versioned-site-css/643690f9010b9c2e3a90196a/7/5c5a519771c10ba3470d8101/643690f9010b9c2e3a90198b/1463/site.css
+File Name: C:\Downloaded Web Sites\chancecafe.de\static\versioned-site-css\643690f9010b9c2e3a90196a\7\5c5a519771c10ba3470d8101\643690f9010b9c2e3a90198b\1463\site.css
+Content Type: text/css
+
+Uri: https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.873f112badc9049b740a43e39def8d5d.js
+File Name: C:\Downloaded Web Sites\chancecafe.de\static\vta\5c5a519771c10ba3470d8101\scripts\site-bundle.873f112badc9049b740a43e39def8d5d.js
+Content Type: application/javascript
+
+Uri: https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1699467906351-57EZFPH2B9UY1CKJS6AA/static.css
+File Name: C:\Downloaded Web Sites\chancecafe.de\static\vta\5c5a519771c10ba3470d8101\versioned-assets\1699467906351-57EZFPH2B9UY1CKJS6AA\static.css
+Content Type: text/css
+
+Uri: https://use.typekit.net/ik/lOTZr2VJgAIlIbiGloRpfg8ia7TtlwVuCyybzB3sr49fe0j2fFHN4UJLFRbh52jhWDjXwDjowejow2I3jR8Rwc9DjQq3wQqhjsnxMKG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0jhyydcF8OAUziAo1ZPoDSWmyScmDSeBRZPoRdhXCHKoDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlOeBRiA8XpWFR-emqiAUTdcS0jhNlOeBRiA8XpWFR-emqiAUTdcS0dcmXOeBDOcu8OeFGjAoRZPuCdam0Zh90SaBujW48Sagyjh90jhNlOeFGjAoRZAFyZc90Ze9CdeNRjAUGdaFXOYFUiABkZWF3jAF8ShFGZAsude80ZkoRdhXCiaiaOcBRiA8XpWFR-emqiAUTdcS0jhNlOYiaikoyjamTiY8Djhy8ZYmC-Ao1Oco8ifUaiaS0jWw0dA9CiaiaOcFGjAoRZPuCdam0Zh90SaBujW48Sagyjh90jhNlOYiaikoR-eB0jhmRjAZ8Ocs8OYiaikoDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlJ6TyZeN0-WwlihmKH6qJN8bbMg6IJMJ7fbRomgMMeMS6MKG4fVy9IMMj2KMfH6qJr8bbMg6sJMHbMd2-1EJe.js
+File Name: C:\Downloaded Web Sites\chancecafe.de\ik\lOTZr2VJgAIlIbiGloRpfg8ia7TtlwVuCyybzB3sr49fe0j2fFHN4UJLFRbh52jhWDjXwDjowejow2I3jR8Rwc9DjQq3wQqhjsnxMKG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0jhyydcF8OAUziAo1ZPoDSWmyScmDSeBRZPoRdh.js
+Content Type: text/javascript
+
