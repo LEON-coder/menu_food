@@ -11258,6 +11258,8 @@ img:after {
 	font-size  : var(--main-title-font-size-desktop)
 }
 
+
+
 @media (max-width: 992px) {
 	.headline {
 		font-size: var(--main-title-font-size-mobile)
@@ -12669,4 +12671,18 @@ h6 {
 	height       : 30px;
 	border-radius: 50%;
 	align-self   : center;
+}
+
+.snacks-headline {
+	font-size  : 14px;
+	font-weight: 600;
+}
+
+.snacks-last-item {}
+
+.drink-headline {
+	display        : flex;
+	width          : 100%;
+	justify-content: space-between;
+	padding-right  : 0px;
 }
