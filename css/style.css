@@ -12651,6 +12651,12 @@ h6 {
 	width: 13vw;
 }
 
+@media screen and (max-width: 450px) {
+	.small-text-modify {
+		width: 52vw;
+	}
+}
+
 .happy-hour-volume-drink {}
 
 .happy-hours-name-drink {
