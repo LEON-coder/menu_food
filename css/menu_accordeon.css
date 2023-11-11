@@ -50,16 +50,19 @@
 }
 
 .open .accordionItemContent {
-	padding         : 10px 0px 0px 10px;
+	padding         : 10px 0px 10px 10px;
 	background-color: #f0f1f1;
 	border          : 1px solid #ddd;
 	width           : 100%;
-	display         : block;
 	transform       : scaleY(1);
 	transform-origin: top;
 	transition      : transform 0.4s ease;
 	box-sizing      : border-box;
 	margin-top      : 5px;
+	display         : flex;
+	align-items     : center;
+	justify-content : space-between;
+	padding-right   : 10px;
 }
 
 .open .accordionItemHeading {
@@ -180,4 +183,22 @@
 
 .snacks_cursor-none {
 	cursor: default;
+}
+
+p {
+	margin-top    : 0;
+	margin-bottom : 1rem;
+	display       : flex;
+	align-items   : center;
+	margin-bottom : 0;
+	display       : flex;
+	flex-direction: column;
+	align-items   : baseline;
+}
+
+.drink-headline {
+	display        : flex;
+	width          : 100%;
+	justify-content: space-between;
+	padding-right  : 0px;
 }

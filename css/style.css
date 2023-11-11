@@ -242,7 +242,10 @@ h6 {
 
 p {
 	margin-top   : 0;
-	margin-bottom: 1rem
+	margin-bottom: 1rem;
+	display      : flex;
+	align-items  : center;
+	margin-bottom: 0;
 }
 
 abbr[data-original-title],
@@ -12658,4 +12661,12 @@ h6 {
 
 .thin-class {
 	font-weight: 200;
+}
+
+.drink_image {
+	display      : flex;
+	width        : 30px;
+	height       : 30px;
+	border-radius: 50%;
+	align-self   : center;
 }
