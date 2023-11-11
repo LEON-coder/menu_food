@@ -8890,16 +8890,18 @@ button.bg-dark:hover {
 
 .mb-auto,
 .my-auto {
-	margin-bottom: auto !important
+	margin-bottom: auto !important;
+	font-weight  : 500;
 }
 
 .ml-auto,
 .mx-auto {
 	display        : flex;
 	justify-content: space-between;
-	width          : 100%;
+	width          : 70%;
 	align-items    : center;
 	text-decoration: none;
+	font-size      : 13px;
 }
 
 @media (min-width: 576px) {
@@ -10681,7 +10683,8 @@ button.bg-dark:hover {
 }
 
 .text-center {
-	text-align: center !important
+	text-align : center !important;
+	font-weight: 800;
 }
 
 @media (min-width: 576px) {
@@ -11269,10 +11272,11 @@ h6 {
 }
 
 .small-text {
-	font-size  : var(--small-font-size-desktop);
 	display    : flex;
 	width      : fit-content;
 	white-space: normal;
+	font-size  : 14px;
+	margin-top : 10px;
 }
 
 @media (max-width: 992px) {
@@ -12525,9 +12529,6 @@ h6 {
 .menu-card[_ngcontent-bhi-c12],
 .menu-card[_ngcontent-bhi-c12] div[_ngcontent-bhi-c12] {
 	background-color: #fff;
-	width           : auto;
-	font-size       : 15px;
-	font-weight     : 700;
 }
 
 .menu-card[_ngcontent-bhi-c12] {
@@ -12580,10 +12581,11 @@ h6 {
 }
 
 .multiline-ellipsis-title[_ngcontent-bhi-c12] {
-	font-size         : 14px;
+	font-size         : 16px;
 	-webkit-line-clamp: 2;
 	line-height       : 1.5;
 	max-height        : 42px;
+	font-weight       : 700;
 }
 
 .headline,
@@ -12603,4 +12605,57 @@ h6 {
 .category-display {
 	padding-left : 16px;
 	padding-right: 16px;
+}
+
+.drink-describe-text {}
+
+.display-flex-col {
+	display       : flex;
+	flex-direction: column;
+}
+
+.name-drink-mixes-block {
+	display       : flex;
+	flex-direction: column;
+
+}
+
+.name-drink-mixes {
+	display: flex;
+}
+
+.multiline-ellipsis-desc[_ngcontent-kec-c12] {
+	font-size         : 13px;
+	-webkit-line-clamp: 30;
+	line-height       : 1.5;
+	max-height        : 585px;
+}
+
+.drinking-name-block-mix {
+	display       : flex;
+	flex-direction: column;
+}
+
+.volume-drink {
+	font-size    : 13px;
+	width        : 16vw;
+	margin-bottom: 10px;
+}
+
+.small-text-modify {
+	width: 13vw;
+}
+
+.happy-hour-volume-drink {}
+
+.happy-hours-name-drink {
+	font-size     : 16px;
+	font-weight   : 700;
+	display       : flex;
+	flex-direction: column;
+	margin-bottom : 5px;
+}
+
+.thin-class {
+	font-weight: 200;
 }
