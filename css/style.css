@@ -12651,12 +12651,6 @@ h6 {
 	width: 13vw;
 }
 
-@media screen and (max-width: 450px) {
-	.small-text-modify {
-		width: 52vw;
-	}
-}
-
 .happy-hour-volume-drink {}
 
 .happy-hours-name-drink {
@@ -12691,4 +12685,16 @@ h6 {
 	width          : 100%;
 	justify-content: space-between;
 	padding-right  : 0px;
+}
+
+@media screen and (max-width: 450px) {
+	.small-text-modify {
+		width: 100%;
+	}
+
+	.volume-drink {
+		font-size    : 13px;
+		width        : 80%;
+		margin-bottom: 10px;
+	}
 }
