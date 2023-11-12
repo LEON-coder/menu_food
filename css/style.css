@@ -12653,11 +12653,9 @@ h6 {
 	width: 13vw;
 }
 
-.happy-hour-volume-drink {}
-
 .happy-hours-name-drink {
 	font-size     : 16px;
-	font-weight   : 700;
+	font-weight   : 100;
 	display       : flex;
 	flex-direction: column;
 	margin-bottom : 5px;
