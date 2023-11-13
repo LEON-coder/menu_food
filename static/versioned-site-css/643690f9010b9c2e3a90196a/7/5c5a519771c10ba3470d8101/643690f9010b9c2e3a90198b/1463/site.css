@@ -39080,3 +39080,8 @@ body:not(.show-pdp-product-add-ons) .product-details .pdp-product-add-ons {
     opacity: 0;
     transition-property: opacity;
 }
+
+	.preFadeText {
+display            : flex;
+	justify-content    : center;
+}
