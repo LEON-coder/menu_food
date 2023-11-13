@@ -32927,8 +32927,12 @@ _:-ms-fullscreen .clipIn:not([data-override-initial-global-animation]),
 
 .preFade {
 	opacity            : 0;
-	transition-property: opacity;
-	display            : flex;
+	transition-property: opacity;	
+}
+
+
+.preFadeText {
+display            : flex;
 	justify-content    : center;
 }
 
