@@ -91,12 +91,6 @@ svg:not(:root).svg-inline--fa {
 	color        : #7a8794;
 }
 
-.headline,
-.main-headline {
-	font-family: 'MontserratSemiBold', -apple-system, 'BlinkMacSystemFont', 'Segoe UI', Roboto, 'Helvetica Neue', Arial, ' Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-	font-size  : var(--main-title-font-size-desktop);
-}
-
 .headline-font-item {}
 
 .container-margin-right {
@@ -211,7 +205,20 @@ body {
 	line-height     : 1.5;
 	color           : #212529;
 	text-align      : left;
-	background-color: #3d0404
+	background-color: #3d0404;
+	font-family     : Montserrat,
+		-apple-system,
+		BlinkMacSystemFont,
+		Segoe UI,
+		Roboto,
+		Helvetica Neue,
+		Arial,
+		Noto Sans,
+		sans-serif,
+		Apple Color Emoji,
+		Segoe UI Emoji,
+		Segoe UI Symbol,
+		Noto Color Emoji;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -10683,6 +10690,8 @@ button.bg-dark:hover {
 .text-center {
 	text-align : center !important;
 	font-weight: 800;
+	color      : white;
+	font-family: sans-serif;
 }
 
 @media (min-width: 576px) {
@@ -11001,16 +11010,6 @@ a.text-dark:hover {
 	--input-placeholder-color-or-inactive-products: #d5d1d1
 }
 
-body {
-	background-color: var(--main-background-color);
-	border-color    : #7a8794;
-	color           : #7a8794;
-	display         : contents;
-	font-family     : Montserrat, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
-	font-size       : var(--main-font-size-desktop);
-	min-height      : 100vh
-}
-
 @media (max-width: 992px) {
 	body {
 		font-size: var(--main-font-size-mobile)
@@ -11243,13 +11242,6 @@ img:after {
 	text-decoration: none !important
 }
 
-.headline,
-.main-headline {
-	font-family: MontserratSemiBold, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
-	font-size  : var(--main-title-font-size-desktop)
-}
-
-
 
 @media (max-width: 992px) {
 	.headline {
@@ -11283,7 +11275,7 @@ h6 {
 }
 
 .icon-color {
-	color: #ababab
+	color: white;
 }
 
 .wpwl-control {
@@ -12525,7 +12517,8 @@ h6 {
 
 .menu-card[_ngcontent-bhi-c12],
 .menu-card[_ngcontent-bhi-c12] div[_ngcontent-bhi-c12] {
-	background-color: #fff;
+	background-color: #9E4D4D;
+	color           : white;
 }
 
 .menu-card[_ngcontent-bhi-c12] {
@@ -12582,6 +12575,7 @@ h6 {
 .main-headline {
 	font-family: MontserratSemiBold, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
 	font-size  : var(--main-title-font-size-desktop);
+	background : #9E4D4D;
 }
 
 .align-items-center {
