@@ -12661,7 +12661,7 @@ h6 {
 	display        : flex;
 	width          : 100%;
 	justify-content: space-between;
-	padding-right  : 0px;
+	padding-right  : 10px;
 }
 
 @media screen and (max-width: 450px) {
