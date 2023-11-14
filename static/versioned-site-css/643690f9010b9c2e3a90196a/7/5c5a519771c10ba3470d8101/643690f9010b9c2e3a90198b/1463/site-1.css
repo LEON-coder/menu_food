@@ -39074,3 +39074,25 @@ body:not(.show-pdp-product-add-ons) .product-details .pdp-product-add-ons {
 	display        : flex;
 	justify-content: center;
 }
+
+.fe-block-bba16f32dc4fb5041e6f {
+                    grid-area: 3/14/18/22;
+                    z-index: 0;
+                  }
+
+
+
+@media (max-width: 768px) {
+	.fe-block-bba16f32dc4fb5041e6f {
+		grid-area: 1/14/16/22;
+		z-index  : 0;
+	}
+
+	.fe-block-bba16f32dc4fb5041e6f .sqs-block {
+		justify-content: center;
+	}
+
+	.fe-block-bba16f32dc4fb5041e6f .sqs-block-alignment-wrapper {
+		align-items: center;
+	}
+}
