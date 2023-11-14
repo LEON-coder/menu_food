@@ -78,12 +78,6 @@
 	word-break   : break-word;
 }
 
-.headline,
-.main-headline {
-	font-family: 'MontserratSemiBold', -apple-system, 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
-	font-size  : var(--main-title-font-size-desktop);
-}
-
 .card[_ngcontent-isb-c13]>.category-title[_ngcontent-isb-c13] {
 	cursor: pointer;
 }
