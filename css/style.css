@@ -330,7 +330,7 @@ a {
 }
 
 a:hover {
-	color: #56616b;
+	color: white;
 }
 
 a:not([href]),
@@ -11265,7 +11265,6 @@ h6 {
 	white-space: normal;
 	font-size  : 12px;
 	margin-top : 10px;
-	font-weight: 200;
 }
 
 @media (max-width: 992px) {
@@ -12576,6 +12575,11 @@ h6 {
 	font-family: MontserratSemiBold, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
 	font-size  : var(--main-title-font-size-desktop);
 	background : #9E4D4D;
+}
+
+.headline:hover {
+	opacity: .75;
+	color  : white;
 }
 
 .align-items-center {
