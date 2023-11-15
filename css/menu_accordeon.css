@@ -185,15 +185,20 @@ p {
 	align-items   : baseline;
 }
 
-.drink-headline {
-	display        : flex;
-	width          : 100%;
-	justify-content: space-between;
-	padding-right  : 0px;
-	color          : white;
-}
-
 .happy-hours-name-drink-block {
 	display       : flex;
 	flex-direction: column;
+}
+
+
+@media screen and (max-width:450px) {
+	.drink-content {
+		display        : flex;
+		width          : 100%;
+		justify-content: space-between;
+		padding-right  : 0px;
+		color          : white;
+	}
+
+	.mobile-320px {}
 }
