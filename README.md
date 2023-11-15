@@ -1,3 +1,2 @@
-# menu_food_2
-# menu_food_2
-# menu_food
+Добавил на сайт меню , кастомизировал под заказчика.
+Меню было такое - https://menu.mymenu.de/location/6124eba7-9d6b-4c46-9db0-baa528184d90
