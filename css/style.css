@@ -12666,6 +12666,8 @@ h6 {
 	padding-right  : 10px;
 }
 
+
+
 @media screen and (max-width: 450px) {
 	.small-text-modify {
 		width: 100%;
@@ -12680,6 +12682,34 @@ h6 {
 	.drink-headline-block {
 		display       : flex;
 		flex-direction: column;
+	}
+
+	.logo {
+		color           : #7a8794;
+		text-decoration : none;
+		background-color: transparent;
+		margin-left     : 41%;
+		margin-right    : 30%;
+	}
+}
+
+@media screen and (max-width: 375px) {
+	.logo {
+		color           : #7a8794;
+		text-decoration : none;
+		background-color: transparent;
+		margin-left     : 47%;
+		margin-right    : auto;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.logo {
+		color           : #7a8794;
+		text-decoration : none;
+		background-color: transparent;
+		margin-left     : 46%;
+		margin-right    : auto;
 	}
 }
 
