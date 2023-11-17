@@ -13,6 +13,11 @@
 	padding: 0;
 }
 
+.logo {
+	margin-left : auto;
+	margin-right: 850px;
+}
+
 .logo-center[_ngcontent-qet-c44] {
 	cursor       : pointer;
 	height       : 40px;
@@ -12666,7 +12671,12 @@ h6 {
 	padding-right  : 10px;
 }
 
-
+@media screen and (max-width: 1440px) {
+	.logo {
+		margin-left : auto;
+		margin-right: 45.5%;
+	}
+}
 
 @media screen and (max-width: 450px) {
 	.small-text-modify {
