@@ -190,6 +190,11 @@ p {
 	flex-direction: column;
 }
 
+.drink-headline-block {
+	display       : flex;
+	flex-direction: column;
+}
+
 
 @media screen and (max-width:450px) {
 	.drink-content {
