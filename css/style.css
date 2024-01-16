@@ -67,12 +67,6 @@ svg:not(:root).svg-inline--fa {
 	padding  : 8px;
 }
 
-<style>.display-item[_ngcontent-hcv-c16],
-.menu-name[_ngcontent-hcv-c16] {
-	border-radius: 4px;
-	color        : #7a8794;
-}
-
 .p-1 {
 	padding: 0.25rem !important;
 }
