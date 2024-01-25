@@ -90,8 +90,6 @@ svg:not(:root).svg-inline--fa {
 	color        : #7a8794;
 }
 
-.headline-font-item {}
-
 .container-margin-right {
 	margin-right: 16px;
 }
@@ -433,6 +431,7 @@ select {
 [type=reset],
 [type=submit],
 button {
+	appearance        : button;
 	-webkit-appearance: button;
 }
 
@@ -12659,9 +12658,9 @@ h6 {
 }
 
 .drink-headline {
-    display: flex;
-    width: 100%;
-    justify-content: space-between;    
+	display        : flex;
+	width          : 100%;
+	justify-content: space-between;
 }
 
 @media screen and (max-width: 1440px) {
