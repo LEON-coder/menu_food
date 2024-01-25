@@ -12659,9 +12659,9 @@ h6 {
 }
 
 .drink-headline {
-	display        : flex;
-	width          : 100%;
-	justify-content: space-between;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;    
 }
 
 @media screen and (max-width: 1440px) {
