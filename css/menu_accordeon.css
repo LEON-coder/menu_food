@@ -135,7 +135,9 @@
 	-webkit-line-clamp: 2;
 	line-height       : 1.5;
 	font-weight       : bold;
-	color             : white;
+	display           : flex;
+	justify-content   : space-between;
+	align-items       : center;
 }
 
 .item-link-wrap {
