@@ -12663,6 +12663,7 @@ h6 {
 	display        : flex;
 	width          : 100%;
 	justify-content: space-between;
+	color          : white;
 }
 
 @media screen and (max-width: 1440px) {
